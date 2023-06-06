@@ -4220,10 +4220,8 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
     float: right;
     padding: 9px 10px;
     margin-top: 16.5px;
-    margin-right: 15px;
     margin-bottom: 8px;
     background-color: #F5F0E3;
-    background-image: url(../img/icons/MenuBurger.png);
     background-size: cover;
     border: 1px solid transparent;
     border-radius: 4px
