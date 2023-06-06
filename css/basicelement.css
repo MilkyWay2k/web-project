@@ -304,7 +304,7 @@ button a{
     background-color: #F8C765;
 }
 
-@media (max-width: 390px) {
+@media (min-width: 390px) {
     .navbar-custom .navbar-brand {
         font-weight: 700;
         font-size: 24px;
