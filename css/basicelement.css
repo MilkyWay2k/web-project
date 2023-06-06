@@ -266,12 +266,6 @@ hr {
     }
 }
 
-@media (max-width: 453px) {
-    .qr {
-        box-shadow: none;
-    }
-}
-
 .bot-marg {
     margin-bottom: -10%;
 }
@@ -302,15 +296,6 @@ button a{
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     background-color: #F8C765;
-}
-
-@media (min-width: 390px) {
-    .navbar-custom .navbar-brand {
-        font-weight: 700;
-        font-size: 24px;
-        line-height: 24px;
-        margin-top: 2.5%;
-    }
 }
 
 .navbar-custom .navbar-brand {
@@ -408,7 +393,7 @@ button a{
     display: table;
     width: 100%;
     height: auto;
-    padding: 100px 0;
+    padding: 200px 0;
     text-align: center;
     color: #fff;
     background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
@@ -450,7 +435,7 @@ button a{
 }
 
 .margin-intro3 {
-    margin-top: 15%;
+    margin-top: 24%;
 }
 
 .intro .intro-body {
@@ -494,7 +479,7 @@ button a{
 
 @media(min-width:767px) {
     .intro {
-        height: 100%;
+        height: 70%;
         padding: 0;
     }
 
@@ -595,14 +580,10 @@ button a{
     padding: 0;
 }
 
-#map {
-    width: 100%;
-    height: 200px;
-}
-
 @media(min-width:767px) {
     .content-section {
         padding: 150px 0;
+        margin-top: 23%;
     }
 
     .download-section {
@@ -710,7 +691,7 @@ img::-moz-selection {
   }
   
   .animation > div > div {
-    padding: 0.25rem 0.75rem;
+    padding: 1.5rem 3rem;
     height:2.81rem;
     margin-bottom: 3.15rem;
     display:inline-block;
@@ -723,12 +704,12 @@ img::-moz-selection {
   @keyframes text-animation {
     0% {margin-top: 0;}
     10% {margin-top: 0;}
-    20% {margin-top: -5.62rem;}
-    30% {margin-top: -5.62rem;}
-    40% {margin-top: -11.24rem;}
-    60% {margin-top: -11.24rem;}
-    70% {margin-top: -5.62rem;}
-    80% {margin-top: -5.62rem;}
+    20% {margin-top: -6rem;}
+    30% {margin-top: -6rem;}
+    40% {margin-top: -12rem;}
+    60% {margin-top: -12rem;}
+    70% {margin-top: -7rem;}
+    80% {margin-top: -6rem;}
     90% {margin-top: 0;}
     100% {margin-top: 0;}
   }
