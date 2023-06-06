@@ -260,6 +260,10 @@ hr {
         width: 274px;
         height: 360px;
     }
+
+    .img4 {
+        box-shadow: 0 0 5px #001F23;
+    }
 }
 
 @media (max-width: 453px) {
